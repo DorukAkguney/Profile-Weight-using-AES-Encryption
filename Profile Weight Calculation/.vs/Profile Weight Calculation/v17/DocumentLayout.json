@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B329BE90-1E93-43BD-8544-DE536100872F}|Profile Weight Calculation\\Profile Weight Calculation.csproj|C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\profile weight calculation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B329BE90-1E93-43BD-8544-DE536100872F}|Profile Weight Calculation\\Profile Weight Calculation.csproj|solutionrelative:profile weight calculation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B329BE90-1E93-43BD-8544-DE536100872F}|Profile Weight Calculation\\Profile Weight Calculation.csproj|C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\profile weight calculation\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B329BE90-1E93-43BD-8544-DE536100872F}|Profile Weight Calculation\\Profile Weight Calculation.csproj|solutionrelative:profile weight calculation\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B329BE90-1E93-43BD-8544-DE536100872F}|Profile Weight Calculation\\Profile Weight Calculation.csproj|C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\profile weight calculation\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B329BE90-1E93-43BD-8544-DE536100872F}|Profile Weight Calculation\\Profile Weight Calculation.csproj|solutionrelative:profile weight calculation\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B329BE90-1E93-43BD-8544-DE536100872F}|Profile Weight Calculation\\Profile Weight Calculation.csproj|C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\profile weight calculation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B329BE90-1E93-43BD-8544-DE536100872F}|Profile Weight Calculation\\Profile Weight Calculation.csproj|solutionrelative:profile weight calculation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B329BE90-1E93-43BD-8544-DE536100872F}|Profile Weight Calculation\\Profile Weight Calculation.csproj|C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\profile weight calculation\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B329BE90-1E93-43BD-8544-DE536100872F}|Profile Weight Calculation\\Profile Weight Calculation.csproj|solutionrelative:profile weight calculation\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B329BE90-1E93-43BD-8544-DE536100872F}|Profile Weight Calculation\\Profile Weight Calculation.csproj|c:\\users\\doruk\\source\\repos\\profile weight calculation\\profile weight calculation\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B329BE90-1E93-43BD-8544-DE536100872F}|Profile Weight Calculation\\Profile Weight Calculation.csproj|solutionrelative:profile weight calculation\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B329BE90-1E93-43BD-8544-DE536100872F}|Profile Weight Calculation\\Profile Weight Calculation.csproj|C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\profile weight calculation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B329BE90-1E93-43BD-8544-DE536100872F}|Profile Weight Calculation\\Profile Weight Calculation.csproj|solutionrelative:profile weight calculation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\Profile Weight Calculation\\Program.cs",
+              "RelativeDocumentMoniker": "Profile Weight Calculation\\Program.cs",
+              "ToolTip": "C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\Profile Weight Calculation\\Program.cs",
+              "RelativeToolTip": "Profile Weight Calculation\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:55:55.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\Profile Weight Calculation\\Form1.cs",
+              "RelativeDocumentMoniker": "Profile Weight Calculation\\Form1.cs",
+              "ToolTip": "C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\Profile Weight Calculation\\Form1.cs",
+              "RelativeToolTip": "Profile Weight Calculation\\Form1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:53:31.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\Profile Weight Calculation\\Form1.cs",
+              "RelativeDocumentMoniker": "Profile Weight Calculation\\Form1.cs",
+              "ToolTip": "C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\Profile Weight Calculation\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Profile Weight Calculation\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:52:01.138Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\Profile Weight Calculation\\Form2.cs",
+              "RelativeDocumentMoniker": "Profile Weight Calculation\\Form2.cs",
+              "ToolTip": "C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\Profile Weight Calculation\\Form2.cs",
+              "RelativeToolTip": "Profile Weight Calculation\\Form2.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:55:14.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\Profile Weight Calculation\\Form2.cs",
+              "RelativeDocumentMoniker": "Profile Weight Calculation\\Form2.cs",
+              "ToolTip": "C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\Profile Weight Calculation\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Profile Weight Calculation\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:54:17.902Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\Profile Weight Calculation\\Form3.cs",
+              "RelativeDocumentMoniker": "Profile Weight Calculation\\Form3.cs",
+              "ToolTip": "C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\Profile Weight Calculation\\Form3.cs",
+              "RelativeToolTip": "Profile Weight Calculation\\Form3.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwC4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:56:21.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\Profile Weight Calculation\\Form3.cs",
+              "RelativeDocumentMoniker": "Profile Weight Calculation\\Form3.cs",
+              "ToolTip": "C:\\Users\\Doruk\\source\\repos\\Profile Weight Calculation\\Profile Weight Calculation\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Profile Weight Calculation\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:55:51.706Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

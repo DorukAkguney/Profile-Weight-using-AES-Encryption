@@ -1,0 +1,12 @@
+C:\Users\Doruk\source\repos\Profile Weight Calculation\Profile Weight Calculation\bin\Debug\Profile Weight Calculation.exe.config
+C:\Users\Doruk\source\repos\Profile Weight Calculation\Profile Weight Calculation\bin\Debug\Profile Weight Calculation.exe
+C:\Users\Doruk\source\repos\Profile Weight Calculation\Profile Weight Calculation\bin\Debug\Profile Weight Calculation.pdb
+C:\Users\Doruk\source\repos\Profile Weight Calculation\Profile Weight Calculation\obj\Debug\Profile Weight Calculation.csproj.AssemblyReference.cache
+C:\Users\Doruk\source\repos\Profile Weight Calculation\Profile Weight Calculation\obj\Debug\Profile_Weight_Calculations.Form1.resources
+C:\Users\Doruk\source\repos\Profile Weight Calculation\Profile Weight Calculation\obj\Debug\Profile_Weight_Calculations.Form2.resources
+C:\Users\Doruk\source\repos\Profile Weight Calculation\Profile Weight Calculation\obj\Debug\Profile_Weight_Calculations.Form3.resources
+C:\Users\Doruk\source\repos\Profile Weight Calculation\Profile Weight Calculation\obj\Debug\Profile_Weight_Calculation.Properties.Resources.resources
+C:\Users\Doruk\source\repos\Profile Weight Calculation\Profile Weight Calculation\obj\Debug\Profile Weight Calculation.csproj.GenerateResource.cache
+C:\Users\Doruk\source\repos\Profile Weight Calculation\Profile Weight Calculation\obj\Debug\Profile Weight Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Doruk\source\repos\Profile Weight Calculation\Profile Weight Calculation\obj\Debug\Profile Weight Calculation.exe
+C:\Users\Doruk\source\repos\Profile Weight Calculation\Profile Weight Calculation\obj\Debug\Profile Weight Calculation.pdb
